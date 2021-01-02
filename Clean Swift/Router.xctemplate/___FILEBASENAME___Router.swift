@@ -24,7 +24,7 @@ final class ___VARIABLE_sceneName___Router: NSObject {
     
     // MARK: - External vars
     weak var viewController: ___VARIABLE_sceneName___ViewController?
-    var dataStore: ___VARIABLE_sceneName___DataStore?
+    weak var dataStore: ___VARIABLE_sceneName___DataStore?
 }
 
 // MARK: - Routing logic

@@ -16,7 +16,7 @@ protocol ___VARIABLE_sceneName___BusinessLogic {
     
 }
 
-protocol ___VARIABLE_sceneName___DataStore {
+protocol ___VARIABLE_sceneName___DataStore: class {
     //var name: String { get set }
 }
 
